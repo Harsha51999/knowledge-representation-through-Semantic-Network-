@@ -2,6 +2,7 @@ nouns={0:"cat",1:"dog",2:"human",3:"whale",4:"dolphin",5:"pigeon",6:"eagle",7:"m
 adj=[[0 for i in range(10)] for j in range(10)]
 
 
+
 adj[0][7]=1
 adj[1][7]=1
 adj[2][7]=1
