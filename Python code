@@ -27,3 +27,4 @@ for i in range(7):
     if vis[i]==0:
         vis[i]=1
         dfs(i)
+
